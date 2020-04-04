@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="100" viewBox="0 0 150 100">
+  <defs>
+    <path id="path-2" fill-rule="evenodd" d="M18 16h114c1.10383005 0 2 .89616995 2 2v68c0 1.10383005-.89616995 2-2 2H18c-1.10383005 0-2-.89616995-2-2V18c0-1.10383005.89616995-2 2-2z"/>
+    <mask id="mask-3" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="150" height="100" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-2"/>
+    </mask>
+    <rect id="rect-12" width="16" height="16" x="111.314" y="27.314"/>
+  </defs>
+  <rect width="150" height="100" x="0" y="0" fill="rgb(52,174,144)"/>
+  <g>
+    <use fill="rgb(140,226,207)" xlink:href="#path-2"/>
+    <use fill-opacity="0" stroke="rgb(28,35,33)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-3)" xlink:href="#path-2"/>
+  </g>
+  <g>
+    <rect width="6" height="18" x="42" y="62" fill="rgb(57,188,157)"/>
+    <rect width="6" height="28" x="36" y="52" fill="rgb(190,62,16)"/>
+  </g>
+  <g>
+    <rect width="6" height="27" x="62" y="53" fill="rgb(52,174,144)"/>
+    <rect width="6" height="26" x="56" y="54" fill="rgb(217,100,59)"/>
+  </g>
+  <g>
+    <rect width="6" height="36" x="82" y="44" fill="rgb(46,156,127)"/>
+    <rect width="6" height="25" x="76" y="55" fill="rgb(220,127,95)"/>
+  </g>
+  <g>
+    <rect width="6" height="52" x="102" y="28" fill="rgb(41,139,112)"/>
+    <rect width="6" height="26" x="96" y="54" fill="rgb(220,127,95)"/>
+  </g>
+  <g transform="rotate(45.000016 119.3137085 35.3137085)">
+    <path fill="none" stroke="rgb(28,35,33)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M111.3137085 33.46755465V27.3137085h6.15384615"/>
+    <path fill="none" stroke="rgb(28,35,33)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M111.3137085 27.3137085l16 16"/>
+  </g>
+  <g>
+    <rect width="2" height="6" x="32" y="29" fill="rgb(190,62,16)" transform="rotate(90.000032 33 32)"/>
+    <path fill="rgb(28,35,33)" fill-rule="evenodd" d="M26.455 32.5675V34h-2.0025v-1.4475c-1.2825-.27-2.37-1.095-2.4525-2.55h1.47c.075.7875.615 1.4025 1.9875 1.4025 1.47 0 1.8-.735 1.8-1.1925 0-.6225-.33-1.2075-2.0025-1.605-1.86-.45-3.135-1.215-3.135-2.7525 0-1.29 1.0425-2.13 2.3325-2.4075V22h2.0025v1.4625c1.395.3375 2.0925 1.395 2.1375 2.5425h-1.47c-.0375-.8325-.48-1.4025-1.665-1.4025-1.125 0-1.8.51-1.8 1.23 0 .63.4875 1.0425 2.0025 1.4325 1.515.39 3.135 1.0425 3.135 2.9325-.0075 1.3725-1.035 2.1225-2.34 2.37z"/>
+    <path fill="rgb(41,139,112)" fill-rule="evenodd" d="M32 25v-2h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/>
+  </g>
+</svg>
